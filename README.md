@@ -1,7 +1,7 @@
 # UPCL
 
 ## [NeurIPS2025 Spotlight] Unbiased Prototype Consistency Learning for Multi-Modal and Multi-Task Object Re-Identification
-
+### 🎉🎉🎉 [Paper](<https://arxiv.org/abs/2312.09612](https://proceedings.neurips.cc/paper_files/paper/2025/file/82a0696bea2c4ebf726fc796eaca7a55-Paper-Conference.pdf>)
 ### Introduction
 Unbiased Prototypes-guided Modality Enhancement (UPME) and
 Cluster Prototype Consistency Regularization (CPCR). UPME leverages modality-unbiased prototypes to simultaneously enhance cross-modal shared features and
@@ -42,3 +42,5 @@ The test sets should be downloaded separately from the original dataset links. D
 - RGBNT201 link: https://drive.google.com/drive/folders/1EscBadX-wMAT56_It5lXY-S3-b5nK1wH
 - RGBNT100 link: https://pan.baidu.com/s/1xqqh7N4Lctm3RcUdskG0Ug code：rjin
 - MSVR310 link: https://drive.google.com/file/d/1IxI-fGiluPO_Ies6YjDHeTEuVYhFdYwD/view?usp=drive_link
+
+
